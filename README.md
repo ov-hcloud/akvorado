@@ -1,2 +1,1 @@
-# akvorado
-OVH Bugbounty POC
+# OVH Bugbounty POC
